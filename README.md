@@ -463,6 +463,7 @@ that makes it happen. That's the magic behind the proof of work.
 
 
 ##### Blockchain from Scratch - JavaScript Version
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. Old computers earn more than new ones.
 
 ```js
 class Block {
